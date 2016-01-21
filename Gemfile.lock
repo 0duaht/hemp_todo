@@ -1,0 +1,21 @@
+PATH
+  remote: ../hemp
+  specs:
+    hemp (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    byebug (8.2.1)
+    rack (1.6.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  byebug
+  hemp!
+  rack
+
+BUNDLED WITH
+   1.10.6
