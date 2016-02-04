@@ -2,12 +2,14 @@ GEM
   remote: https://rubygems.org/
   specs:
     hemp (1.0.0)
+    rack (1.6.4)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   hemp
+  rack
 
 BUNDLED WITH
    1.10.6
