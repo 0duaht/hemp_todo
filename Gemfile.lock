@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    hemp (0.1.0)
+    hemp (1.0.0)
 
 PLATFORMS
   ruby
